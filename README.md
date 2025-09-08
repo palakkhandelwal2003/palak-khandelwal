@@ -1,11 +1,11 @@
-# Hi, I'm Palak Khandelwal
+# 👋 Hi, I'm Palak Khandelwal
 **Final Year Undergraduate @ Indian Institute of Technology, Tirupati** | ** Data Science and Analytics Enthusiast**
 
 Aspiring engineer with a blend of technical expertise and hands-on industry experience. Skilled in frontend and backend web development, data analytics, and machine learning. Committed to quality, process optimization, and impactful business solutions.
 
 ---
 
-## 👩‍🔬 Experience
+## 👩‍🔬 Professsional Experience
 
 **Summer Intern – Bureau of Indian Standards (May–Jul 2025)**  
 - Conducted gap analysis between large-scale and MSME manufacturers for quality standards and compliance.  
@@ -68,3 +68,4 @@ Aspiring engineer with a blend of technical expertise and hands-on industry expe
 
 - [LinkedIn](https://www.linkedin.com/in/palak-khandelwal-a784a6258/)
 - [GitHub](https://github.com/palakkhandelwal2003)
+- [Portfolio](https://palakkhandelwal2003.github.io/portfolio/)
